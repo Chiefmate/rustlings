@@ -5,7 +5,9 @@
 // I AM NOT DONE
 
 fn main() {
-    let a = ???
+    let a = ['a', 'b', 'c'];
+    let a = vec![1,2,3];
+    let a = "abc";
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
